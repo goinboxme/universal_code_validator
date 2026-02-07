@@ -74,7 +74,7 @@ Bekerja di **Desktop** (Windows/Linux/macOS) dan **Android** (Pydroid 3/Termux) 
 #### 🖥️ **Desktop (Windows/Linux/macOS)**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/universal-code-validator.git
+git clone https://github.com/goinboxme/universal-code-validator.git
 cd universal-code-validator
 
 # Tidak perlu dependency eksternal - Pure Python!
@@ -85,7 +85,7 @@ python UNIVERSAL_CODE_VALIDATOR_V3.py
 ```bash
 # Di Termux
 pkg install python git
-git clone https://github.com/yourusername/universal-code-validator.git
+git clone https://github.com/goinboxme/universal-code-validator.git
 cd universal-code-validator
 python UNIVERSAL_CODE_VALIDATOR_V3.py
 
@@ -324,7 +324,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # Clone dan run
-git clone https://github.com/yourusername/universal-code-validator.git
+git clone https://github.com/goinboxme/universal-code-validator.git
 cd universal-code-validator
 python UNIVERSAL_CODE_VALIDATOR_V3.py .
 ```
@@ -492,9 +492,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: [goinboxme]
+- **Email**: inbox.globaltrade@gmail.com
+- **GitHub**: [@goinboxme](https://github.com/goinboxme)
 
 ## ⭐ Star History
 
